@@ -34,6 +34,44 @@ To create a free cloud account on Microsoft Azure and explore the cloud services
 8. Complete the signup to get access to the **Azure portal**.
 
 ---
+
+Free Services in Azure
+1. Azure Free Account (General Users)
+
+Credits: $200 free credit (valid 30 days).
+
+12 months free services:
+
+Compute: 750 hours of B1S VM (Linux/Windows).
+
+Storage: 5 GB Blob Storage, 250 GB SQL Database, 5 GB File Storage.
+
+Databases: SQL Database (250 GB), Cosmos DB (5 GB).
+
+Networking: 15 GB outbound bandwidth per month.
+
+AI + ML: Free tier of Azure Cognitive Services.
+
+2. Azure for Students (No Card Needed)
+
+Credits: $100 free credit (valid 12 months).
+
+Services:
+
+Free access to Virtual Machines (Linux/Windows).
+
+App Services for hosting web apps.
+
+Azure Functions (serverless computing).
+
+Cosmos DB (NoSQL).
+
+Azure SQL Database.
+
+Developer Tools: GitHub Student Pack, Visual Studio Code, Azure Dev Tools for Teaching.
+
+---
+
 ### **Output**:
 
 <img width="1917" height="1147" alt="image" src="https://github.com/user-attachments/assets/ed115fae-73cd-4c2f-8a25-295f141571f8" />

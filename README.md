@@ -1,4 +1,4 @@
-## **Experiment: Opening an Azure Cloud Account**
+## **EX1: Cloud Account Setup and Services Overview**
 
 ### **Aim**
 
